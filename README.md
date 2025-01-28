@@ -6,9 +6,9 @@
 <tr>
 <td>
 
-🔭 I'm currently working on spotify project
-🌱 I'm currently learning backend developement
-📫 How to reach me: ghazalnaderi4@gmail.com
+🔭 I'm currently working on spotify project <br>
+🌱 I'm currently learning backend developement <br>
+📫 How to reach me: ghazalnaderi4@gmail.com <br>
 
 </td>
 <td>
