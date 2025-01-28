@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td>
+<td style= display:"block">
 
 🔭 I'm currently working on spotify project <br>
 🌱 I'm currently learning backend developement <br>
