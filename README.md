@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning backend developement
 - 📫 How to reach me: ghazalnaderi4@gmail.com
 
-<img src="[banner_github.png](https://pin.it/26H31aCsd)" alt="GitHub Banner" width="100%" />
 
+![download](https://github.com/user-attachments/assets/0ac88539-a73f-4aa4-bb74-0b7a0eb42177)
 
 
 
