@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on spotify project
 - 🌱 I’m currently learning backend developement
-- 💬 Ask me about ...
 - 📫 How to reach me: ghazalnaderi4@gmail.com
 
 <img src="[banner_github.png](https://pin.it/26H31aCsd)" alt="GitHub Banner" width="100%" />
