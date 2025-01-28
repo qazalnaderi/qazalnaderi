@@ -1,12 +1,15 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on spotify project
-- 🌱 I’m currently learning backend developement
-- 📫 How to reach me: ghazalnaderi4@gmail.com
 
-
-![download](https://github.com/user-attachments/assets/0ac88539-a73f-4aa4-bb74-0b7a0eb42177)
+<div style="display: flex; align-items: center;">
+  <div>
+    - 🔭 I’m currently working on spotify project<br>
+    - 🌱 I’m currently learning backend development<br>
+    - 📫 How to reach me: ghazalnaderi4@gmail.com
+  </div>
+  <img src="https://github.com/user-attachments/assets/0ac88539-a73f-4aa4-bb74-0b7a0eb42177" alt="download" style="width: 200px; margin-left: 20px;">
+</div>
 
 
 
