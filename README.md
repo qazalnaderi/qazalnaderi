@@ -2,14 +2,20 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    - 🔭 I’m currently working on spotify project<br>
-    - 🌱 I’m currently learning backend development<br>
-    - 📫 How to reach me: ghazalnaderi4@gmail.com
-  </div>
-  <img src="https://github.com/user-attachments/assets/0ac88539-a73f-4aa4-bb74-0b7a0eb42177" alt="download" style="width: 200px; height: auto; margin-left: 20px;">
-</div>
+<table>
+<tr>
+<td>
+
+🔭 I'm currently working on spotify project
+🌱 I'm currently learning backend developement
+📫 How to reach me: ghazalnaderi4@gmail.com
+
+</td>
+<td>
+<img src="https://github.com/user-attachments/assets/0ac88539-a73f-4aa4-bb74-0b7a0eb42177" width="300"/>
+</td>
+</tr>
+</table>
 
 
 
