@@ -7,7 +7,7 @@
 <td style= display:"block">
 
 🔭 I'm currently working on spotify project <br>
-🌱 I'm currently learning backend developement <br>
+🌱 I'm currently learning backend developement & ML <br>
 📫 How to reach me: ghazalnaderi4@gmail.com <br>
 
 </td>
