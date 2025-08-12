@@ -6,7 +6,7 @@
 <tr>
 <td style= display:"block">
 
-🔭 I'm currently working on shopify project <br>
+🔭 I'm currently working on some little projects <br>
 🌱 I'm currently learning backend developement & ML <br>
 📫 How to reach me: ghazalnaderi4@gmail.com <br>
 
