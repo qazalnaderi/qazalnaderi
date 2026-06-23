@@ -6,8 +6,7 @@
 <tr>
 <td style= display:"block">
 
-🔭 I'm currently working on some little projects <br>
-🌱 I'm currently learning backend developement & ML <br>
+🌱 Computer Engineering student focused on AI, Machine Learning, and applied Deep Learning. <br>
 📫 How to reach me: ghazalnaderi4@gmail.com <br>
 
 </td>
