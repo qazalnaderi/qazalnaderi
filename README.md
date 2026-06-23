@@ -27,6 +27,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=qazalnaderi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qazalnaderi&theme=shadow_blue&hide_border=false)<br/>
 
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
